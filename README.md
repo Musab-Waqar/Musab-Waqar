@@ -1,230 +1,318 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              MUSAB WAQAR — GITHUB PROFILE README               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                  MUSAB WAQAR — GITHUB PROFILE README                   -->
+<!--              Soft-Dark · Gold · Bold Grey · Interactive                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- HEADER BANNER: SOFT DARK + GOLD WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,2&height=230&section=header&text=Musab%20Waqar&fontSize=52&fontColor=d4af37&animation=fadeIn&fontAlignY=38&desc=BS%20CS%20%40%20FAST%20NUCES%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20%26%20ML%20Explorer&descAlignY=62&descAlign=50&descColor=c9c9c9" width="100%" alt="Musab Waqar Header"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,40&customColorList=0,8,2&height=240&section=header&text=Musab%20Waqar&fontSize=58&fontColor=d4af37&animation=fadeIn&fontAlignY=40&desc=BS%20CS%20%40%20FAST%20NUCES%20%E2%80%A2%20Backend%20%26%20AI%20Engineer%20%E2%80%A2%20Graduating%202027&descAlignY=64&descAlign=50&descColor=c9c9c9" width="100%"/>
 
-<!-- TYPING TICKER -->
+<!-- ANIMATED TYPING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=600&color=D4AF37&center=true&vCenter=true&width=860&lines=♟️+Chess+Player+%7C+Night+Owl+%7C+Logic+Lover;⚙️+Backend+Systems+%26+Compiler+Craftsman;🧠+AI+%2F+ML+%7C+Discrete+Maths+%7C+Automata+Theory;📸+Digital+Image+Processing+Explorer;🎵+Music+%2B+Code+%3D+My+Kind+of+Harmony;🎓+FAST+NUCES+•+BS+CS+•+Graduating+2027" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=2800&pause=500&color=D4AF37&center=true&vCenter=true&width=900&lines=♟️+Chess+Player+%7C+Night+Owl+%7C+Logic+Lover;⚙️+Compiler+Craftsman+%7C+Automata+Theorist;🧠+AI+%2F+ML+Explorer+%7C+DIP+Tinkerer;📐+Discrete+Mathematics+%7C+Data+Structures+Wizard;🎵+Music+%2B+Code+%3D+My+Kind+of+Harmony;🌙+Best+Bugs+Debugged+After+Midnight;🚀+FAST+NUCES+•+BS+CS+•+Graduating+June+2027" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <!-- BADGES ROW -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Musab-Waqar&style=for-the-badge&color=b8860b&labelColor=1a1a1a&label=👁️+PROFILE+VIEWS" alt="Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Research-Collaborations-d4af37?style=for-the-badge&labelColor=1a1a1a" alt="Open to Research"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Studying-c9c9c9?style=for-the-badge&labelColor=1a1a1a" alt="Status"/>
+
+  <img src="https://komarev.com/ghpvc/?username=Musab-Waqar&style=for-the-badge&color=b8860b&labelColor=0d0d0d&label=👁️+VISITORS" alt="Views"/>
+  &nbsp;&nbsp;
+  <a href="https://musab-waqar.github.io/Musab-Waqar/">
+    <img src="https://img.shields.io/badge/🏰_Interactive_Portfolio-OPEN_NOW-d4af37?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Research_🔬-c9c9c9?style=for-the-badge&labelColor=0d0d0d" alt="Status"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Islamabad_🇵🇰-888888?style=for-the-badge&labelColor=0d0d0d" alt="Location"/>
+
 </div>
 
 <br/>
 
 ---
 
-## 🕯️ Who Am I?
+<div align="center">
+  <h3>
+    ✨
+    <a href="https://musab-waqar.github.io/Musab-Waqar/">
+      👉 CLICK HERE → Interactive Portfolio: Chess · Terminal · Animations · Contact
+    </a>
+    ✨
+  </h3>
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>I'm <b>Musab Waqar</b> — a Computer Science student at <b>FAST NUCES</b> (graduating <b>June 2027</b>), fascinated by the deep architecture of machines, the elegance of logic, and the patterns hidden in data.</p>
-      <ul>
-        <li>🎓 <b>BS Computer Science</b> @ FAST NUCES — 6th Semester</li>
-        <li>⚙️ <b>Backend Engineer</b> — building robust, scalable systems</li>
-        <li>🧠 <b>AI & ML Explorer</b> — training models, tuning pipelines</li>
-        <li>📐 <b>Theory Enthusiast</b> — Automata, Discrete Maths, Compilers</li>
-        <li>📸 <b>DIP Tinkerer</b> — image transforms, filters & vision</li>
-        <li>♟️ <b>Chess & Logic</b> — moves planned, patterns broken</li>
-        <li>🌙 <b>Night Owl</b> — best code written after midnight</li>
-        <li>🎵 <b>Music</b> — the other language I speak fluently</li>
-      </ul>
-      <br/>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" alt="Coding GIF"/>
-    </td>
-  </tr>
+---
+
+## 🪐 Who Am I?
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```javascript
+const musab = {
+  name     : "Musab Waqar",
+  university: "FAST NUCES — BS Computer Science",
+  semester  : "6th",
+  graduating: "June 2027",
+  domains   : [
+    "Backend Engineering",
+    "AI / Machine Learning",
+    "Compiler Design",
+    "Automata Theory",
+    "Discrete Mathematics",
+    "Data Structures & Algorithms",
+    "Digital Image Processing"
+  ],
+  hobbies   : ["chess ♟️", "music 🎵", "night_owl 🌙", "logic 📐"],
+  motto     : "Logic is the architecture of thought. Code is its expression.",
+  openTo    : ["Research Collabs", "International MS", "Interesting Projects"]
+};
+```
+
+</td>
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" alt="Dev Animation"/>
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🎯 Current Mission Board
 
-> [!NOTE]
-> ### 🌙 What I'm Focused On Right Now
+> [!TIP]
+> ### 🌙 Active Objectives
 >
-> - 🔬 **Research & Theory** — Diving deep into compiler optimization, automata constructions, and formal language theory
-> - 🤖 **AI & ML Projects** — Building and training models for real-world classification and vision tasks
-> - 📸 **Digital Image Processing** — Exploring convolution, morphological ops, and frequency-domain transforms
-> - 🌍 **Future Goals** — Preparing for international MS applications, research labs, and fellowships
-> - ♟️ **Chess** — Always analyzing, always improving the endgame
+> | Priority | Mission | Status |
+> |:---:|:---|:---:|
+> | 🔥 | Compiler optimization & formal grammar research | `in progress` |
+> | 🔥 | AI/ML pipeline projects — DIP & classification | `in progress` |
+> | ⭐ | International MS & Research Lab applications | `preparing` |
+> | ⭐ | Kaggle competitions & data challenges | `active` |
+> | ✅ | DeepLearning.AI + IBM AI Engineering certs | `complete` |
 
 ---
 
-## 🛠️ My Toolbox
+## 🛠️ Technical Arsenal
 
-<table align="center" width="100%">
-  <tr>
-    <td align="right" width="24%"><b>✨ Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=c%2B%2B&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=c9c9c9" height="26"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🧠 AI / ML / Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=d4af37" height="26"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>⚙️ Backend & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/REST_APIs-1a1a1a?style=flat-square&logoColor=d4af37" height="26"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🏗️ Infrastructure</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=d4af37" height="26"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>📐 Theory & CS Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Automata_Theory-1a1a1a?style=flat-square&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Discrete_Mathematics-1a1a1a?style=flat-square&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/Data_Structures-1a1a1a?style=flat-square&logoColor=d4af37" height="26"/>
-      <img src="https://img.shields.io/badge/Compiler_Design-1a1a1a?style=flat-square&logoColor=c9c9c9" height="26"/>
-      <img src="https://img.shields.io/badge/Digital_Image_Processing-1a1a1a?style=flat-square&logoColor=d4af37" height="26"/>
-    </td>
-  </tr>
+<table align="center">
+<tr>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
+    <sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/>
+    <sub><b>C++</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>
+    <sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/>
+    <sub><b>PyTorch</b></sub>
+  </td>
+  <td align="center" width="120">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>
+    <sub><b>TensorFlow</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
+    <sub><b>Docker</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/>
+    <sub><b>Linux</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+    <sub><b>Git</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
+    <sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/>
+    <sub><b>AWS</b></sub>
+  </td>
+</tr>
 </table>
 
----
-
-## 🏗️ Projects in the Workshop
-
-> *Real projects loading... These placeholders reflect my domains — swap with your own when ready!*
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔤 Custom Language Compiler</h3>
-      <p>A multi-phase compiler built from scratch — custom lexer, parser, semantic analyzer, and code generator targeting a minimal instruction set. Heavily rooted in automata theory and formal grammars.</p>
-      <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-      <img src="https://img.shields.io/badge/Automata-1a1a1a?style=flat-square&logoColor=c9c9c9" height="22"/>
-      <img src="https://img.shields.io/badge/Compiler_Design-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📸 Image Processing Toolkit</h3>
-      <p>A suite of DIP algorithms implemented from mathematical fundamentals — spatial filters, edge detectors, histogram equalization, morphological operations, and Fourier transforms on grayscale & RGB images.</p>
-      <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-      <img src="https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logoColor=c9c9c9" height="22"/>
-      <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 ML Classification Engine</h3>
-      <p>End-to-end ML pipeline: data preprocessing, feature engineering, model training (SVM, Random Forest, Neural Net), cross-validation, and performance benchmarking across real-world datasets.</p>
-      <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-1a1a1a?style=flat-square&logoColor=c9c9c9" height="22"/>
-      <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Data Structures Visualizer</h3>
-      <p>An interactive backend engine that models and traces classic data structures (AVL Trees, Graphs, Hash Maps) with step-by-step execution logging — built for learning and debugging DS algorithms.</p>
-      <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-      <img src="https://img.shields.io/badge/Algorithms-1a1a1a?style=flat-square&logoColor=c9c9c9" height="22"/>
-      <img src="https://img.shields.io/badge/OOP-1a1a1a?style=flat-square&logoColor=d4af37" height="22"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 Research & Academic Interests
-
-> 🔬 **Compiler Optimization under Formal Grammar Constraints**
->
-> *Exploring how context-free grammar rules and finite automata constructions can be leveraged to optimize parse-tree traversal and reduce redundant token evaluation in lightweight compilers.*
-
-> 🧠 **Neural Architecture Benchmarking on Low-Resource Tasks**
->
-> *Investigating performance trade-offs between shallow and deep network architectures when training on constrained or imbalanced datasets — focusing on generalization and overfitting behavior.*
-
-> 📸 **Frequency-Domain Analysis in Medical Image Segmentation**
->
-> *Applying DFT-based filtering and morphological techniques to enhance boundary detection in low-contrast grayscale medical imagery.*
-
----
-
-## 🎓 Certifications & Learning
-
-<details>
-<summary><b>📂 Expand Certifications</b></summary>
 <br/>
 
-- 📊 **Google Advanced Data Analytics** — Professional Certification
-- 🧠 **IBM AI Engineering** — Framework & Pipeline Specialization
-- 🎓 **DeepLearning.AI** — Neural Networks & Hyperparameter Tuning
-- ☁️ **AWS Cloud Foundations** — Architecture Basics
+<!-- THEORY BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Automata_Theory-0d0d0d?style=for-the-badge&logoColor=d4af37&labelColor=0d0d0d&color=1a1100" />
+  <img src="https://img.shields.io/badge/Discrete_Mathematics-0d0d0d?style=for-the-badge&logoColor=d4af37&labelColor=0d0d0d&color=1a1100" />
+  <img src="https://img.shields.io/badge/Compiler_Design-0d0d0d?style=for-the-badge&logoColor=d4af37&labelColor=0d0d0d&color=1a1100" />
+  <img src="https://img.shields.io/badge/Data_Structures-0d0d0d?style=for-the-badge&logoColor=d4af37&labelColor=0d0d0d&color=1a1100" />
+  <img src="https://img.shields.io/badge/Digital_Image_Processing-0d0d0d?style=for-the-badge&logoColor=d4af37&labelColor=0d0d0d&color=1a1100" />
+</div>
+
+---
+
+## 🏗️ Projects Workshop
+
+> *Projects loading — placeholder domains based on real skill set. Swap when your repos are ready.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔤 Custom Language Compiler
+Multi-phase compiler from scratch — lexer, recursive-descent parser, semantic analyzer, code generator. Rooted in automata theory and formal grammars.
+
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=c%2B%2B&logoColor=d4af37)
+![Automata](https://img.shields.io/badge/Automata-0d0d0d?style=flat-square&logoColor=c9c9c9)
+![Compiler](https://img.shields.io/badge/Compiler_Design-0d0d0d?style=flat-square&logoColor=d4af37)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 Image Processing Toolkit
+DIP algorithms from mathematical foundations — spatial filters, edge detectors, histogram EQ, morphological ops, FFT on grayscale & RGB images.
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=d4af37)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=c9c9c9)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=d4af37)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 ML Classification Engine
+End-to-end pipeline: feature engineering, SVM/RF/Neural Net training, cross-validation, performance benchmarking across real-world datasets.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=d4af37)
+![Scikit](https://img.shields.io/badge/Scikit_Learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=c9c9c9)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=d4af37)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 DS Algorithm Visualizer
+Step-by-step execution tracer for AVL Trees, Graphs, Hash Maps, and sorting algorithms — built for deep algorithmic intuition and debugging.
+
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=d4af37)
+![Algorithms](https://img.shields.io/badge/Algorithms-0d0d0d?style=flat-square&logoColor=c9c9c9)
+![OOP](https://img.shields.io/badge/OOP-0d0d0d?style=flat-square&logoColor=d4af37)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Research Interests
+
+<details>
+<summary><b>🔬 Click to expand research focus areas</b></summary>
+<br/>
+
+> **⚙️ Compiler Optimization under Formal Grammar Constraints**
+>
+> Leveraging CFL rules and NFA/DFA constructions to reduce parse-tree traversal overhead and eliminate redundant token evaluation in lightweight compilation pipelines.
+
+> **🧠 Neural Architecture Benchmarking on Low-Resource Tasks**
+>
+> Investigating performance trade-offs between shallow and deep networks on constrained/imbalanced datasets — focusing on generalization, overfitting, and transfer learning efficiency.
+
+> **📸 Frequency-Domain Analysis in Medical Image Segmentation**
+>
+> Applying DFT-based filtering and morphological operations to enhance boundary detection in low-contrast grayscale medical imagery.
 
 </details>
+
+---
+
+## 🗓️ Journey Timeline
+
+```
+2023 ──●── FAST NUCES · BS CS Begins
+        │   Automata · Discrete Maths · DSA · OOP
+        │
+2024 ──●── Google Advanced Data Analytics Certification
+        ●── IBM AI Engineering Specialization
+        │   Neural nets · Pipelines · Deployment
+        │
+2025 ──●── DeepLearning.AI — Hyperparameter Tuning
+        ●── AWS Cloud Foundations
+        │   DIP · Compiler Design · Backend Projects
+        │
+2026 ──●── Active Research & Project Building
+        │   Exploring MS opportunities worldwide
+        │
+2027 ──●── FAST NUCES · BS CS Graduation 🎓
+```
 
 ---
 
 ## ♟️ Beyond the Code
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   ♟️  Chess         →  Every position is a problem       │
-│   🎵  Music         →  Algorithms have rhythm too        │
-│   🌙  Night Owl     →  The best bugs surface at 2am      │
-│   📐  Logic & Maths →  The universe runs on proofs       │
-│   📚  Theory        →  Turing was right about everything │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ♟️  Chess         →  Every position is a problem to solve  │
+│   🎵  Music         →  Algorithms have rhythm too            │
+│   🌙  Night Owl     →  The best bugs surface at 2am          │
+│   📐  Logic & Maths →  The universe runs on formal proofs    │
+│   📚  Theory        →  Turing was right about everything     │
+│   🔬  Research      →  Building towards an international MS  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certificate | Provider | Year |
+|:---|:---:|:---:|
+| 📊 Advanced Data Analytics | Google | 2024 |
+| 🧠 AI Engineering Specialization | IBM | 2024 |
+| 🎓 Neural Networks & Hyperparameter Tuning | DeepLearning.AI | 2025 |
+| ☁️ Cloud Foundations | AWS | 2025 |
+
+</div>
 
 ---
 
 ## 📊 GitHub Metrics
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Musab-Waqar&show_icons=true&theme=dark&title_color=d4af37&icon_color=d4af37&text_color=c9c9c9&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musab-Waqar&theme=dark&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&sideNums=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideLabels=888888" width="100%" alt="Streak Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Musab-Waqar&show_icons=true&count_private=true&theme=dark&title_color=d4af37&icon_color=d4af37&text_color=c9c9c9&bg_color=0d0d0d&border_color=2a2200&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Musab-Waqar&theme=dark&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&background=0d0d0d&border=2a2200&stroke=2a2200&sideNums=c9c9c9&dates=888&currStreakNum=c9c9c9&sideLabels=888" width="48%" alt="Streak"/>
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab-Waqar&layout=compact&theme=dark&title_color=d4af37&text_color=c9c9c9&bg_color=0d0d0d&border_color=2a2a2a&langs_count=8" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musab-Waqar&layout=compact&theme=dark&title_color=d4af37&text_color=c9c9c9&bg_color=0d0d0d&border_color=2a2200&langs_count=8" width="50%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musab-Waqar&bg_color=0d0d0d&color=d4af37&line=b8860b&point=d4af37&area=true&area_color=2a1a00&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -234,22 +322,37 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Musab-Waqar/Musab-Waqar/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Musab-Waqar/Musab-Waqar/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Musab-Waqar/Musab-Waqar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Musab-Waqar/Musab-Waqar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+## 📬 Let's Connect
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musab-Waqar&bg_color=0d0d0d&color=d4af37&line=b8860b&point=d4af37&area=true&area_color=b8860b&hide_border=true" width="100%" alt="Activity Graph"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Musab--Waqar-d4af37?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=0d0d0d)](https://github.com/Musab-Waqar)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d4af37?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=0d0d0d)](https://linkedin.com/in/musab-waqar)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-d4af37?style=for-the-badge&logo=vercel&logoColor=d4af37&labelColor=0d0d0d)](https://musab-waqar.github.io/Musab-Waqar/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact_Me-d4af37?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=0d0d0d)](mailto:musab@fast.edu)
+
 </div>
 
----
+<br/>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,2&height=140&section=footer&text=Let's+Build+Something+Meaningful&fontSize=20&fontColor=d4af37&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer"/>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,2&height=160&section=footer&text=Compiled+with+logic.+Debugged+at+midnight.&fontSize=18&fontColor=d4af37&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 <div align="center">
-  <i>🌙 Compiled with logic. Debugged at midnight. Shipped with intention.</i>
+  <sub>
+    🌙 &nbsp;
+    <i>Crafted by <b>Musab Waqar</b> · FAST NUCES · 2024–2027</i>
+    &nbsp; · &nbsp;
+    <i>Soft dark · Gold · Bold · Interactive</i>
+    &nbsp; 🌙
+  </sub>
 </div>
