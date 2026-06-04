@@ -44,7 +44,7 @@
 <div align="center">
   <h3>
     ✨
-    <a href="https://musab-waqar.github.io/Musab-Waqar/work.html">
+    <a href="https://musab-waqar.github.io/Musab-Waqar/works.html">
       👉 CLICK HERE → ABOUT ME 
     </a>
     ✨
