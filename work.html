@@ -1,152 +1,287 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<title>Crayon Style Transformer</title>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Musab Waqar — Crayon Portfolio</title>
+
 <style>
-    body {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: #ffffff;
-        text-align: center;
-    }
+:root{
+  --paper:#ffffff;
+  --ink:#2b2b2b;
 
-    h1 {
-        margin: 20px;
-        font-size: 22px;
-    }
+  --c1:#ff6b6b;
+  --c2:#ffd93d;
+  --c3:#6bcB77;
+  --c4:#4d96ff;
+  --c5:#c77dff;
+}
 
-    #controls {
-        margin-bottom: 10px;
-    }
+*{box-sizing:border-box;margin:0;padding:0}
 
-    canvas {
-        border: 2px dashed #ccc;
-        margin-top: 10px;
-        background: white;
-    }
+body{
+  background:var(--paper);
+  font-family:"Comic Sans MS", cursive;
+  color:var(--ink);
+  overflow-x:hidden;
+}
 
-    input {
-        padding: 10px;
-    }
+/* PAPER TEXTURE */
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  background-image: radial-gradient(#ddd 1px, transparent 1px);
+  background-size: 18px 18px;
+  opacity:0.35;
+  pointer-events:none;
+}
 
-    button {
-        padding: 10px 15px;
-        cursor: pointer;
-        background: #ffcc00;
-        border: none;
-        border-radius: 8px;
-        font-weight: bold;
-    }
+/* DOODLES LAYER */
+canvas{
+  position:fixed;
+  top:0;left:0;
+  z-index:0;
+  pointer-events:none;
+}
+
+/* NAV */
+nav{
+  position:fixed;
+  top:0;left:0;right:0;
+  z-index:10;
+  background:#fff;
+  border-bottom:3px dashed var(--c2);
+  padding:10px 20px;
+  display:flex;
+  justify-content:space-between;
+}
+
+.nav-links a{
+  margin:0 8px;
+  text-decoration:none;
+  color:var(--ink);
+  border-bottom:2px dotted var(--c3);
+}
+
+/* HERO */
+#hero{
+  padding:120px 20px 60px;
+  text-align:center;
+  position:relative;
+  z-index:2;
+}
+
+h1{
+  font-size:3.5rem;
+  color:var(--c4);
+  transform:rotate(-1deg);
+}
+
+.tag{
+  color:#555;
+  font-style:italic;
+}
+
+/* BUTTONS */
+.btn{
+  display:inline-block;
+  margin:10px;
+  padding:10px 20px;
+  background:var(--c2);
+  border:3px solid #000;
+  border-radius:20px;
+  box-shadow:4px 4px 0 #000;
+  cursor:pointer;
+}
+
+.btn:hover{
+  transform:scale(1.05) rotate(1deg);
+}
+
+/* SECTIONS */
+section{
+  padding:60px 20px;
+  position:relative;
+  z-index:2;
+  animation:wobble 6s infinite ease-in-out;
+}
+
+@keyframes wobble{
+  0%{transform:rotate(-0.3deg)}
+  50%{transform:rotate(0.3deg)}
+  100%{transform:rotate(-0.3deg)}
+}
+
+/* CARDS */
+.card{
+  background:#fff;
+  border:3px solid #000;
+  border-radius:20px;
+  padding:20px;
+  margin:10px;
+  box-shadow:5px 5px 0 rgba(0,0,0,0.2);
+}
+
+/* SKILLS */
+.bar{
+  height:10px;
+  background:#eee;
+  border-radius:10px;
+  overflow:hidden;
+  margin:5px 0;
+}
+
+.fill{
+  height:100%;
+  background:linear-gradient(90deg,var(--c1),var(--c4));
+}
+
+/* CHESS */
+#board{
+  display:grid;
+  grid-template-columns:repeat(8,40px);
+  width:max-content;
+  margin:auto;
+  border:3px solid #000;
+}
+
+.sq{
+  width:40px;height:40px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:20px;
+}
+
+.light{background:#fff8dc}
+.dark{background:#ffe4e1}
+
+/* TERMINAL */
+.terminal{
+  background:#fff;
+  border:3px dashed var(--c5);
+  padding:15px;
+  font-family:monospace;
+}
+
+/* DOODLES ICONS */
+.doodle{
+  position:absolute;
+  font-size:20px;
+  opacity:0.6;
+  animation:float 6s infinite ease-in-out;
+}
+
+@keyframes float{
+  0%{transform:translateY(0)}
+  50%{transform:translateY(-15px)}
+  100%{transform:translateY(0)}
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  font-size:12px;
+}
 </style>
 </head>
+
 <body>
 
-<h1>🖍 Crayon-Style Image Transformer</h1>
+<canvas id="doodle"></canvas>
 
-<div id="controls">
-    <input type="file" id="upload" accept="image/*">
-    <button onclick="transform()">Transform</button>
-</div>
+<nav>
+  <div><b>MW ✏️</b></div>
+  <div class="nav-links">
+    <a href="#hero">Home</a>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
+    <a href="#terminal">Terminal</a>
+  </div>
+</nav>
 
-<canvas id="canvas"></canvas>
+<section id="hero">
+  <h1>Musab Waqar</h1>
+  <p class="tag">CS Student · FAST NUCES · Crayon Mode Activated 🖍️</p>
+  <button class="btn">Projects</button>
+  <button class="btn">Contact</button>
+</section>
+
+<section id="about">
+  <div class="card">
+    <h2>About Me</h2>
+    <p>I build systems, study theory, and sometimes overthink algorithms at 3AM.</p>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="card">
+    <h2>Skills</h2>
+    <p>Python</p><div class="bar"><div class="fill" style="width:85%"></div></div>
+    <p>C++</p><div class="bar"><div class="fill" style="width:80%"></div></div>
+    <p>AI/ML</p><div class="bar"><div class="fill" style="width:78%"></div></div>
+  </div>
+</section>
+
+<section id="projects">
+  <div class="card">
+    <h2>Projects</h2>
+    <ul>
+      <li>Compiler from scratch</li>
+      <li>Image processing toolkit</li>
+      <li>ML classification engine</li>
+    </ul>
+  </div>
+</section>
+
+<section id="terminal">
+  <div class="card terminal">
+    <p><b>terminal@mw:~$</b> whoami</p>
+    <p>Musab — CS Student, Builder, Night coder</p>
+    <p><b>terminal@mw:~$</b> skills</p>
+    <p>DSA · AI · Compiler · Systems</p>
+  </div>
+</section>
+
+<footer>
+  Built in crayon universe ✏️ — Musab Waqar
+</footer>
 
 <script>
-const canvas = document.getElementById("canvas");
-const ctx = canvas.getContext("2d");
-let img = new Image();
+/* DOODLES */
+const c = document.getElementById("doodle");
+const ctx = c.getContext("2d");
 
-document.getElementById("upload").onchange = function (e) {
-    const file = e.target.files[0];
-    const reader = new FileReader();
-
-    reader.onload = function (event) {
-        img = new Image();
-        img.onload = function () {
-            canvas.width = img.width;
-            canvas.height = img.height;
-            ctx.drawImage(img, 0, 0);
-        }
-        img.src = event.target.result;
-    }
-
-    reader.readAsDataURL(file);
-};
-
-function crayonFilter() {
-    let imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
-    let data = imageData.data;
-
-    // simple "crayon effect" (posterize + color shift)
-    for (let i = 0; i < data.length; i += 4) {
-        data[i] = Math.min(255, data[i] * 1.2 + 20);     // red boost
-        data[i+1] = Math.min(255, data[i+1] * 0.9 + 30); // green shift
-        data[i+2] = Math.min(255, data[i+2] * 1.3);      // blue boost
-
-        // posterize effect
-        data[i] = (data[i] / 32) * 32;
-        data[i+1] = (data[i+1] / 32) * 32;
-        data[i+2] = (data[i+2] / 32) * 32;
-    }
-
-    ctx.putImageData(imageData, 0, 0);
+function resize(){
+  c.width = innerWidth;
+  c.height = innerHeight;
 }
+resize();
+window.onresize = resize;
 
-function doodles() {
-    const w = canvas.width;
-    const h = canvas.height;
+function draw(){
+  ctx.clearRect(0,0,c.width,c.height);
 
-    function star(x,y,size){
-        ctx.fillStyle = "gold";
-        ctx.beginPath();
-        for(let i=0;i<5;i++){
-            ctx.lineTo(x + Math.cos((18+i*72)/180*Math.PI)*size,
-                       y + Math.sin((18+i*72)/180*Math.PI)*size);
-            ctx.lineTo(x + Math.cos((54+i*72)/180*Math.PI)*size/2,
-                       y + Math.sin((54+i*72)/180*Math.PI)*size/2);
-        }
-        ctx.closePath();
-        ctx.fill();
-    }
+  for(let i=0;i<30;i++){
+    ctx.fillStyle = "#ffd93d";
+    ctx.beginPath();
+    ctx.arc(Math.random()*c.width, Math.random()*c.height, 2, 0, Math.PI*2);
+    ctx.fill();
 
-    function cloud(x,y){
-        ctx.fillStyle = "#eee";
-        ctx.beginPath();
-        ctx.arc(x, y, 20, 0, Math.PI*2);
-        ctx.arc(x+20, y+10, 25, 0, Math.PI*2);
-        ctx.arc(x-20, y+10, 25, 0, Math.PI*2);
-        ctx.fill();
-    }
+    ctx.fillStyle = "rgba(100,200,255,0.4)";
+    ctx.beginPath();
+    ctx.arc(Math.random()*c.width, Math.random()*c.height, 15, 0, Math.PI*2);
+    ctx.fill();
 
-    function candy(x,y){
-        ctx.fillStyle = "#ff69b4";
-        ctx.fillRect(x,y,20,10);
-        ctx.beginPath();
-        ctx.arc(x,y+5,5,0,Math.PI*2);
-        ctx.arc(x+20,y+5,5,0,Math.PI*2);
-        ctx.fill();
-    }
+    ctx.fillStyle = "#ff6b6b";
+    ctx.fillRect(Math.random()*c.width, Math.random()*c.height, 6, 3);
+  }
 
-    function castle(x,y){
-        ctx.fillStyle = "#caa472";
-        ctx.fillRect(x,y,60,60);
-        ctx.fillRect(x+10,y-20,15,20);
-        ctx.fillRect(x+35,y-20,15,20);
-    }
-
-    for(let i=0;i<10;i++){
-        star(Math.random()*w, Math.random()*h, 10+Math.random()*10);
-        cloud(Math.random()*w, Math.random()*h);
-        candy(Math.random()*w, Math.random()*h);
-        castle(Math.random()*w, Math.random()*h);
-    }
+  requestAnimationFrame(draw);
 }
-
-function transform() {
-    ctx.drawImage(img, 0, 0);
-    crayonFilter();
-    doodles();
-}
+draw();
 </script>
 
 </body>
