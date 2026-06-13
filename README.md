@@ -148,6 +148,12 @@ const musab = {
   <td align="center">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
     <sub><b>Git</b></sub>
+    
+  </td>
+    <td align="center">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
+    <sub><b>Git</b></sub>
+    
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=regex&theme=dark" width="48"/><br/>
