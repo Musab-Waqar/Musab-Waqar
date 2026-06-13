@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,20,40&customColorList=0,8,2&height=240&section=header&text=Musab%20Waqar&fontSize=58&fontColor=d4af37&animation=fadeIn&fontAlignY=40&desc=BS%20CS%20%40%20FAST%20NUCES%20%E2%80%A2%20Backend%20%26%20AI%20Engineer%20%E2%80%A2%20Graduating%202027&descAlignY=64&descAlign=50&descColor=c9c9c9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,18,16,14&text=Musab%20Waqar&fontColor=d4af37&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20and%20CTO%20at%20NanoCoders%20-%20BS%20CS%20FAST%20NUCES%20Peshawar%20-%20AI%20Backend%20and%203WD%20Research&descColor=e5e5e5&descAlignY=64" width="100%"/>
 
 <!-- ANIMATED TYPING BANNER -->
 <div align="center">
