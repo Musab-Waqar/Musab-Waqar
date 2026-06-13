@@ -24,7 +24,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Research_🔬-c9c9c9?style=for-the-badge&labelColor=0d0d0d" alt="Status"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Islamabad_🇵🇰-888888?style=for-the-badge&labelColor=0d0d0d" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Peshawar_🇵🇰-888888?style=for-the-badge&labelColor=0d0d0d" alt="Location"/>
 
 </div>
 
