@@ -149,8 +149,9 @@ const musab = {
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/>
      <td align="center">
+       <sub><b>AWS</b></sub>
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="48"/><br/>
-    <sub><b>AWS</b></sub>
+    <sub><b>Kaggle</b></sub>
   </td>
 </tr>
 </table>
