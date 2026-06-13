@@ -92,7 +92,7 @@ const musab = {
 > | 🔥 | AI/ML pipeline projects — DIP & classification | `in progress` |
 > | ⭐ | International MS & Research Lab applications | `preparing` |
 > | ⭐ | Kaggle competitions & data challenges | `active` |
-> | ✅ | DeepLearning.AI + IBM AI Engineering certs | `complete` |
+
 
 ---
 
@@ -148,6 +148,8 @@ const musab = {
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/>
+     <td align="center">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="48"/><br/>
     <sub><b>AWS</b></sub>
   </td>
 </tr>
