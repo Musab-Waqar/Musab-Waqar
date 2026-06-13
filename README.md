@@ -121,12 +121,19 @@ const musab = {
     <sub><b>PyTorch</b></sub>
   </td>
   <td align="center" width="120">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>
-    <sub><b>TensorFlow</b></sub>
+    <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="48"/><br/>
+    <sub><b>Obsidian</b></sub>
+  </td>
        <td align="center">
     <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" width="48"/><br/>
     <sub><b>Apache Spark</b></sub>
+   <td align="center">
+    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="48"/><br/>
+     <sub><b>ubuntu</b></sub>
   </td>
+    <td align="center">
+    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/>
+     <sub><b>Flutter</b></sub>
   </td>
 </tr>
 <tr>
@@ -143,8 +150,8 @@ const musab = {
     <sub><b>Git</b></sub>
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/>
-    <sub><b>PostgreSQL</b></sub>
+    <img src="https://skillicons.dev/icons?i=regex&theme=dark" width="48"/><br/>
+    <sub><b>regex</b></sub>
   </td>
   <td align="center">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
@@ -158,6 +165,9 @@ const musab = {
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="48"/><br/>
     <sub><b>Kaggle</b></sub>
   </td>
+   <td align="center">
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48"/><br/>
+     <sub><b>sklearn</b></sub>
 </tr>
 </table>
 
