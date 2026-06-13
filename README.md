@@ -151,8 +151,8 @@ const musab = {
     <sub><b>MongoDB</b></sub>
   </td>
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/>
-     <sub><b>AWS</b></sub>
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48"/><br/>
+     <sub><b>Bash</b></sub>
   </td>
      <td align="center">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="48"/><br/>
