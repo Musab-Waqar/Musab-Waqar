@@ -8,7 +8,7 @@
 
 <!-- ANIMATED TYPING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=2800&pause=500&color=D4AF37&center=true&vCenter=true&width=900&lines=♟️+Chess+Player+%7C+Night+Owl+%7C+Logic+Lover;⚙️+Compiler+Craftsman+%7C+Automata+Theorist;🧠+AI+%2F+ML+Explorer+%7C+DIP+Tinkerer;📐+Discrete+Mathematics+%7C+Data+Structures+Wizard;🎵+Music+%2B+Code+%3D+My+Kind+of+Harmony;🌙+Best+Bugs+Debugged+After+Midnight;🚀+FAST+NUCES+•+BS+CS+•+Graduating+June+2027" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=2800&pause=500&color=D4AF37&center=true&vCenter=true&width=900&lines=Co-Founder+%26+CTO+at+NanoCoders;BS+Computer+Science+%40+FAST+NUCES+Peshawar;Backend+Engineer+%7C+AI+Developer;Three-Way+Decision+Systems+Research;Compiler+Construction+%7C+Automata+Theory;Machine+Learning+%7C+Data+Analytics;Graduating+June+2027" alt="Typing SVG"/>
 </div>
 
 <br/>
