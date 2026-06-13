@@ -18,7 +18,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=Musab-Waqar&style=for-the-badge&color=b8860b&labelColor=0d0d0d&label=👁️+VISITORS" alt="Views"/>
   &nbsp;&nbsp;
-  <a href="https://musab-waqar.github.io/Musab-Waqar/">
+  <a href="https://musab-waqar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🏰_Interactive_Portfolio-OPEN_NOW-d4af37?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
@@ -35,8 +35,8 @@
 <div align="center">
   <h3>
     ✨
-    <a href="https://musab-waqar.github.io/Musab-Waqar/">
-      👉 CLICK HERE → Interactive Portfolio: Chess · Terminal · Animations · Contact
+    <a href="https://musab-waqar.github.io/Musab-Waqar/](https://musab-waqar-portfolio.vercel.app/">
+      Portfolio
     </a>
     ✨
   </h3>
