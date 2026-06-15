@@ -35,7 +35,7 @@
 <div align="center">
   <h3>
     ✨
-    <a href="https://musab-waqar.github.io/Musab-Waqar/](https://musab-waqar-portfolio.vercel.app/">
+    <a href="https://musab-waqar-portfolio.vercel.app/">
    ABOUT ME 
     </a>
     ✨
